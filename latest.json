@@ -1,0 +1,11 @@
+{
+  "version": "2.1.7",
+  "notes": "修复若干问题",
+  "pub_date": "2025-02-27T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHhtN3Jmenp3ZXlFN3RsMWZON2p4eHV3ck5sUGpjOU9YcnYwTWhMd0NaSzNTRWM0U3RJWkRLMFNGMjVqZ2tZdkwvQWk4Mi9hM3U3RGFxOVZ4dnVMbDg4bjVIT3cwcUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjg1NDU1CWZpbGU6cGNvbmxpbmVpbnZvaWNlXzIuMS43X3g2NC1zZXR1cC5leGUKOWpXdUlGZ1BUdnhHek82YlVsM3MwM0RBUmw4TXlvL0c0YWlsaCtjNUlYMlk4YVArOXFmQWI2S083T3M4aldTWFg3S2V1OXFCaGY5OHlVSy94VWdlQXc9PQo=",
+      "url": "https://你的域名/安装包路径/Pconline Toolset_0.1.1_x64-setup.exe"
+    }
+  }
+}
