@@ -1,11 +1,11 @@
 {
-  "version": "2.3.2",
-  "notes": "增加任务功能",
-  "pub_date": "2026-04-30T12:00:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHhtN3Jmenp3ZTUyZHV3R1loOTFLRXpCNGFBUVpsVE1GTFZtMGxsWWR6djNGQkluVURyUlpHR1prUVYrWnNTVlE4WFRjSHRXL3lPdEtOMmpiYW1LT1E5ZXU2aExwS0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDkxMjk4CWZpbGU6cGNvbmxpbmVfdG9vbHNfMi4zLjJfeDY0X2VuLVVTLm1zaQpQd1VBUURIUkZNenYwczNxZDMvUzh2b0Y5MDAxYmJ3VFQ0ZkFBbTRXeGFZUFMvdndyNlFPUTVEWjFwR05vN0RhUEdINDZkaVVNRVZBNndsc3ZSNEdCZz09Cg==",
-      "url": "https://github.com/Dunxiliao/pconline_tools/releases/download/v2.3.2/pconline_tools_2.3.2_x64_en-US.msi"
-    }
-  }
+  "version":  "2.3.3",
+  "notes":  "Release 2.3.3",
+  "pub_date":  "2026-04-29T19:49:42Z",
+  "platforms":  {
+                    "windows-x86_64":  {
+                                           "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHhtN3Jmenp3ZTNGaUx2NEdaTHcrVU4rVGw4U1dyMFJwQk1Cc2hVbkE2WDdybUtUaXdMd0daWGJjblVHQWZWcGR6ODlwTkRtZmVHOVpnb1FvU3pWNWw3VmVja1BoS1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDkyMTgyCWZpbGU6cGNvbmxpbmVfdG9vbHNfMi4zLjNfeDY0X2VuLVVTLm1zaQpsa1R3dXdVUVRib2c1NzVXT2dLT1dnM3I5UmxwU2hOWENsNjRicjRZaXlpcXlkQ2RRNWRDa1VyUXRRcms4OWVDL2ppdFJSejhYalBhZDRjOTZpbVdEZz09Cg==",
+                                           "url":  "https://github.com/Dunxiliao/pconline_tools/releases/download/v2.3.3/pconline_tools_2.3.3_x64_en-US.msi"
+                                       }
+                }
 }
