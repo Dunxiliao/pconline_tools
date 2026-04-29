@@ -1,11 +1,11 @@
 {
-  "version": "2.1.9",
-  "notes": "更新版本号",
-  "pub_date": "2026-03-10T12:00:00Z",
+  "version": "2.3.2",
+  "notes": "增加任务功能",
+  "pub_date": "2026-04-30T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHhtN3Jmenp3ZTdySng3ak9JZEh3ZUhUVXh2K1h5dkVDSE5DS2hiOVB0WndSR2hXUWZ5amUycVc0NjdBZjNHWGZzK3dya0R1TGxtdkFTclVFeU16cU9XUW5STTUzdmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDk0OTQxCWZpbGU6cGNvbmxpbmVpbnZvaWNlXzIuMS45X3g2NC1zZXR1cC5leGUKN29GRU5ET2t4SkhTbXVnZEFETWlWcTZFS1o2bXM1SGNNZVBtcHdBVjFaTk1hN2tRZXBDU3NwT01iRm5Ga2JORWZ4QXd5YzZ5a01DVmZKcjRYUWowQlE9PQo=",
-      "url": "https://github.com/Dunxiliao/pconline_tools/releases/download/v2.1.9/pconlineinvoice_2.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHhtN3Jmenp3ZTk5dHF1dnJJeEkyeVh0UWlIRlFOTktRWWpERytnYW5PWXQ0ZXlrQVNRa1B4Z1FKK0hvdW00bTQ4bFZWbC82ZWJJcWthaWNXV3d4MmRJY3Y0ZkVQVEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDgwMTA4CWZpbGU6cGNvbmxpbmVfdG9vbHNfMi4zLjJfeDY0X2VuLVVTLm1zaQpXWUZKenZLMkFsZ1EyVGZvcjJwbXE4L2p3eXlQTDBqbURMajBTUVRnK1I5cndVYkNxVFJXWWlZVVFUZ2dBb3p3UnJvNjc5bTU3enVWVzB5MnBya0NEQT09Cg==",
+      "url": "https://github.com/Dunxiliao/pconline_tools/releases/download/v2.3.2/pconline_tools_2.3.2_x64_en-US.msi"
     }
   }
 }
