@@ -1,11 +1,11 @@
 {
-  "version":  "2.3.3",
-  "notes":  "Release 2.3.3",
-  "pub_date":  "2026-04-29T20:41:09Z",
+  "version":  "2.3.4",
+  "notes":  "Release 2.3.4 修复amazon invoice upload 问题",
+  "pub_date":  "2026-04-30T18:27:23Z",
   "platforms":  {
                     "windows-x86_64":  {
-                                           "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHhtN3Jmenp3ZS8zdVRwTXJrRnNORHl0WGMxc2pxNUswMHl4UlQ2UkhTRllhVlYrRnlxRGlSUkcxcDcwRGMrWlBaYzg2aWY5R2E2V0QwUUNxTi9zaUgyRngzY2RmY0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDk1MjY5CWZpbGU6cGNvbmxpbmVfdG9vbHNfMi4zLjNfeDY0X2VuLVVTLm1zaQp3aUtZVVJoWitXRVJHWS8zbHk5REQwVWthQUZiSlY4eklIVkFJRE4vUXJCcUc3SEI0b2w5bDM0NmtzbTlBbldNMzVuaEs1MU9INnROdVJDcE85c0pEdz09Cg==",
-                                           "url":  "https://github.com/Dunxiliao/pconline_tools/releases/download/v2.3.3/pconline_tools_2.3.3_x64_en-US.msi"
+                                           "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRHhtN3Jmenp3ZXluaW1BR1NtSUpnOEZQcElROC9PNHBXRVkvaXFIZHNPVEUyU2dwWTNsNzVyRy9ySzRZMm82cTZ6SkNLaktGMWlwR2dhM0dkK1hjZUF3QVljT2lmVFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTczNjQzCWZpbGU6cGNvbmxpbmVfdG9vbHNfMi4zLjRfeDY0X2VuLVVTLm1zaQp2Ry9mVGtUYkdXOW5wL21OWWtES0huZ0F2T3lMVHp2R1RCSGZQYnhWUkRjZVRnMERHU1VnRE4yL1pnWTB1cGFsdGhzWDJ0aytadytKNVpIZXBTcFVBdz09Cg==",
+                                           "url":  "https://github.com/Dunxiliao/pconline_tools/releases/download/v2.3.4/pconline_tools_2.3.4_x64_en-US.msi"
                                        }
                 }
 }
